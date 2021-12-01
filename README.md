@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @officialravindra ,An Android App Developer.
 - 👀 I’m interested in developing new apps.
-- 🌱 I’m currently learning react native.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on android projects.
 - 📫 How to reach me ...
      1. ig/officialravindra
