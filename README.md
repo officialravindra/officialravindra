@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @officialravindra ,A Mobile App Developer.
 - 👀 I’m interested in developing new apps.
 - 🌱 Experienced in Flutter and Android.
-- 💞️ I’m looking to collaborate on android projects.
+- 💞️ I’m looking to collaborate on android & ios projects.
 - 📫 How to reach me ...
      1. ig/officialravindra
      2. github/officialravindra
